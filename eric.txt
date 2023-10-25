@@ -1,15 +1,32 @@
+<style>
+.container{
+  display: grid;
+  grid-auto-flow: column;
+}
+</style>
 <span style="font-size:4em">Eric Peng</span>
 
 ---
 
 ✉ waterchinap@qq.com
 
+[🌏me.ridemyway.top](me.ridemyway.top)
+
 
 
 ## 教育
-
-- 同济大学：信息管理硕士
-- 中南大学：材料科学学士
+<div class="container">
+<div>
+<h3>硕士学位</h3>
+<p>同济大学</P>
+<p>信息管理</P>
+</div>
+<div>
+<h3>学士学位</h3>
+<p>中南大学</P>
+<p>材料工程</P>
+</div>
+</div>
 
 
 
@@ -123,3 +140,13 @@
 <h2 class="r-fit-text">THANKS</h2>
 
 [🏠](http://me.ridemyway.top)
+
+
+
+## one more thing
+兴趣爱好
+- 🚴骑行
+- 🎶音乐
+- 🚢旅游
+
+[ridemyway.top](www.ridemyway.top)
