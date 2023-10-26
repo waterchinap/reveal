@@ -1,3 +1,3 @@
 ## Nav Page
-- [Resume](https://me.ridemyway.top/eric.html)
-- [River Tour](https://me.ridemyway.top/river.html)
+- [Resume](https://ppt.ridemyway.top/eric.html)
+- [River Tour](https://ppt.ridemyway.top/river.html)
