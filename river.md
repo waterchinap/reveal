@@ -3,7 +3,7 @@
     text-align: left;
     background-color: rgb(0 0 0 / 0.25);
     backdrop-filter: blur(10px);
-    font-size: 0.5em;
+    font-size: 0.75em;
     width: fit-content(10em);
     padding: 20px;
     border-radius: 20px
